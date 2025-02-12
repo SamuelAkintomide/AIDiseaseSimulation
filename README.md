@@ -1,7 +1,7 @@
 # 1.2) Artificial Intelligence Disease Propagation Simulation
 
 - **Repository:** [GitHub Link](https://github.com/SamuelAkintomide/AIDiseaseSimulation)
-- **Year:** 09/2023 - 05/2024
+- **Year:** 09/2023 - 01/2024
 - **Programming Languages:** C#
 - **Applications:** Unity3D
 - **Additional Resources:** [Report](), [Code]()
