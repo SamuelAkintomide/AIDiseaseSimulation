@@ -1,0 +1,10 @@
+tree("Root")
+    while IsAgentAlive
+        sequence
+            PickRandomDestination
+            MoveToDestination
+            
+            while not IsAgentHealthy
+                sequence
+                    PickMedicalBox
+                    MoveToDestination

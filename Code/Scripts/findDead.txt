@@ -1,0 +1,5 @@
+tree("Root")
+	while IsAgentAlive
+        	sequence        
+                	PickDeadAgent
+                	MoveToDestination
